@@ -1,2 +1,2 @@
-# NewTempestLauncher
-SWGEmu Launcher for SWG Server - New Tempest 
+# NewTempestLauncherfiles
+SWGEmu Launcher files for SWG Server - New Tempest 
